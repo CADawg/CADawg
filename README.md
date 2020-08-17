@@ -90,4 +90,4 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
 
 ### 🧱 I've Built:
 
-#### [NFTMart](https://nftm.art) - A Marketplace for NFTs on the Hive Blockchain
+#### [NFTMart](https://nftm.art) (React Frontend) - A Marketplace for NFTs on the Hive Blockchain
