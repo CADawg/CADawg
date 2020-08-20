@@ -91,3 +91,6 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
 ### 🧱 I've Built:
 
 #### [NFTMart](https://nftm.art) (React Frontend) - A Marketplace for NFTs on the Hive Blockchain
+#### [HiveScore](https://score.hive.uno) - A Security and Social Checkup for your Hive Account
+#### [Witness Voting Tool](https://vote.hive.uno) - A tool to make witness voting easier on Hive
+#### [Hive Engine Tools](https://engine.hive.uno) - Tools to help you view Hive-Engine Data
