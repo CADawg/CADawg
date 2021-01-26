@@ -22,8 +22,8 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="Node.js" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://jquery.com/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/jquery.svg" alt="JQuery" style="vertical-align:top; margin:4px">
+  <a href="https://java.com/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg" alt="JQuery" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://php.net/">
