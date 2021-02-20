@@ -90,4 +90,4 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
 
 ### 🧱 I've Built:
 
-[NFTMart](https://nftm.art) (Frontend) • [HiveScore](https://score.hive.uno) • [Witness Voting Tool](https://vote.hive.uno) • [Hive Engine Tools](https://engine.hive.uno)
+[NFTMart](https://nftm.art) (Frontend) • [HiveScore](https://score.hive.uno) • [Witness Voting Tool](https://vote.hive.uno) • [Hive Engine Tools](https://engine.hive.uno) • [HiveLink](https://hivel.ink/)
