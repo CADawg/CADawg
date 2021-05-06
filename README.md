@@ -91,3 +91,8 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
 ### 🧱 I've Built:
 
 [NFTMart](https://nftm.art) (Frontend) • [Witness Voting Tool](https://vote.hive.uno) • [Hive Engine Tools](https://engine.hive.uno) • [HiveLink](https://hivel.ink/)
+
+
+### Activity:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=snaddyvitch-dispenser&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
