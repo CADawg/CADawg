@@ -92,6 +92,9 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
 
 [NFTMart](https://nftm.art) (Frontend) • [Witness Voting Tool](https://vote.hive.uno) • [Hive Engine Tools](https://engine.hive.uno) • [HiveLink](https://hivel.ink/)
 
+### Fun things:
+
+[Shitpost Status](https://shitpoststatus.com) • [Babushka Spin](https://babushkaspin.com) • [Feature Films](https://featurefilms.co) • [Singles Near You](https://hotsingles.cyou)
 
 ### Activity:
 
