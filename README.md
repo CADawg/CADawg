@@ -98,4 +98,4 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
 
 ### Activity:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=snaddyvitch-dispenser&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=snaddyvitch-dispenser&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
