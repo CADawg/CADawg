@@ -96,9 +96,7 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
 
 [Shitpost Status](https://shitpoststatus.com) • [Babushka Spin](https://babushkaspin.com) • [Feature Films](https://featurefilms.co) • [Singles Near You](https://hotsingles.cyou)
 
-### Elsewhere:
-
-<a rel="me" href="https://privex.social/@cadawg">Mastodon</a>
+<a rel="me" href="https://privex.social/@cadawg"></a>
 
 ### Activity:
 
