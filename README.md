@@ -94,7 +94,7 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
 
 ### Fun things:
 
-[Shitpost Status](https://shitpoststatus.com) • [Babushka Spin](https://babushkaspin.com) • [Feature Films](https://featurefilms.co) • [Singles Near You](https://hotsingles.cyou)
+[Shitpost Status](https://shitpoststatus.com) • [Babushka Spin](https://babushkaspin.com) • [Feature Films](https://featurefilms.co) • [Singles Near You](https://hotsingles.cyou) • [Cookie (Banner) Clicker](https://cookieclicker.dbuidl.com/)
 
 <a rel="me" href="https://privex.social/@cadawg"></a>
 
