@@ -7,7 +7,7 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
 
 <p>
   <a href="http://hive.io/">
-    <img src="https://raw.githubusercontent.com/Snaddyvitch-Dispenser/Snaddyvitch-Dispenser/5fcade7cf7f35824e624857d7f7c01b4f5d7f9a2/badges/hive.svg" alt="Hive" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/CADawg/CADawg/5fcade7cf7f35824e624857d7f7c01b4f5d7f9a2/badges/hive.svg" alt="Hive" style="vertical-align:top; margin:4px">
   </a>
 
  <a href="https://reactjs.org/">
@@ -99,4 +99,4 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
 
 ### Activity:
 
-![trophy](https://github-profile-trophy.vercel.app/?username=snaddyvitch-dispenser&theme=onestar&no-frame=true&no-bg=true&row=1&column=8)
+![trophy](https://github-profile-trophy.vercel.app/?username=cadawg&theme=onestar&no-frame=true&no-bg=true&row=1&column=8)
