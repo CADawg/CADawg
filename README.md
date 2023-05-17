@@ -45,6 +45,10 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
   </a>
+  
+  <a href="https://go.dev">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg" alt="Go (Programming Language)" style="vertical-align:top; margin:4px">
+  </a>
 
   <a href="https://python.org">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
@@ -83,8 +87,14 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
   <a href="https://visualstudio.microsoft.com/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="Visual Studio" style="vertical-align:top; margin:4px">
   </a>
-
   
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="BASH - Bourne Again Shell" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="#">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_goland.svg" alt="GoLand" style="vertical-align:top; margin:4px">
+  </a>
 
 </p>
 
