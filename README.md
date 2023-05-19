@@ -110,3 +110,6 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
 ### Activity:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=cadawg&theme=onestar&no-frame=true&no-bg=true&row=1&column=8)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CADawg&theme=tokyonight-duo&hide_border=false)](https://git.io/streak-stats)
+                
