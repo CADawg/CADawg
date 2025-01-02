@@ -100,7 +100,7 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
 
 ### 🧱 I've Built:
 
-[NFTMart](https://nftm.art) (Frontend) • [Witness Voting Tool](https://vote.hive.uno) • [Hive Engine Tools](https://engine.hive.uno) • [HiveLink](https://hivel.ink/) • [NoIPv6.wtf?](https://noipv6.wtf/) • [Email -> WebMail URL API](https://webmail-url-api.dbuidl.com/)
+[**✨ NEW! ✨** 🔎📧 Webmail Lookup](https://webmail-url-api.dbuidl.com/) • [NFTMart](https://nftm.art) (Frontend) • [Witness Voting Tool](https://vote.hive.uno) • [Hive Engine Tools](https://engine.hive.uno) • [HiveLink](https://hivel.ink/) • [NoIPv6.wtf?](https://noipv6.wtf/)
 
 #### Fun things:
 [Shitpost Status](https://shitpoststatus.com) • [Babushka Spin](https://babushkaspin.com) • [Feature Films](https://featurefilms.co) • [Singles Near You](https://hotsingles.cyou) • [Cookie (Banner) Clicker](https://cookieclicker.dbuidl.com/)
