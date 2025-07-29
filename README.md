@@ -6,10 +6,6 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
 ### 🚧 I build with...
 
 <p>
-  <a href="http://hive.io/">
-    <img src="https://raw.githubusercontent.com/CADawg/CADawg/5fcade7cf7f35824e624857d7f7c01b4f5d7f9a2/badges/hive.svg" alt="Hive" style="vertical-align:top; margin:4px">
-  </a>
-
  <a href="https://reactjs.org/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="React" style="vertical-align:top; margin:4px">
   </a>
