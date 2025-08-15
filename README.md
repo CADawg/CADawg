@@ -99,7 +99,7 @@ Here you'll find a selection of projects that I've made in the past, mainly for 
 [**✨ NEW! ✨** 🧑‍🎓💬 Fluent Tab](https://fluent-tab.dbuidl.com) • [🔎📧 Webmail Lookup](https://webmail-url-api.dbuidl.com/) • [Witness Voting Tool](https://vote.hive.uno) • [Hive Engine Tools](https://engine.hive.uno) • [HiveLink](https://hivel.ink/) • [NoIPv6.wtf?](https://noipv6.wtf/)
 
 #### Fun things:
-[Shitpost Status](https://shitpoststatus.com) • [Babushka Spin](https://babushkaspin.com) • [Feature Films](https://featurefilms.co) • [Singles Near You](https://hotsingles.cyou) • [Cookie (Banner) Clicker](https://cookieclicker.dbuidl.com/)
+[KingLink](https://kingl.ink) • [Shitpost Status](https://shitpoststatus.com) • [Babushka Spin](https://babushkaspin.com) • [Feature Films](https://featurefilms.co) • [Singles Near You](https://hotsingles.cyou) • [Cookie (Banner) Clicker](https://cookieclicker.dbuidl.com/)
 
 **I write about about more new things I've built at [CADawg.com](https://cadawg.com).**
 
